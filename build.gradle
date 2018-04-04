@@ -1,0 +1,35 @@
+plugins {
+    id "org.sonarqube" version "2.6.2"
+}
+
+group 'com.sonarsource.cognitivecomplexity'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+sonarqube {
+    properties {
+        property "sonar.java.xfile", "true"
+    }
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.assertj:assertj-core:3.9.1'
+
+    compile 'com.google.code.gson:gson:2.8.2'
+    compile 'org.json:json:20160212'
+    compile 'com.googlecode.json-simple:json-simple:1.1'
+
+    compile 'jaxen:jaxen:1.1.6'
+    compile 'org.glassfish.jersey.core:jersey-client:2.13'
+    compile 'commons-io:commons-io:2.4'
+}

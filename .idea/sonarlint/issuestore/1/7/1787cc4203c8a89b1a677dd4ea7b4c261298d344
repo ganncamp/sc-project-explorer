@@ -1,0 +1,12 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó²À¨,
+tsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(²§Å8Ó²À¨,
+Fsquid:S00108")Either remove or fill this block of code.(«øàæ8Ó²À¨,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(üÿ‘æÿÿÿÿÿ8Ó²À¨,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ñ È¹úÿÿÿÿ8Ó²À¨,
+Tsquid:UnusedPrivateMethod"*Remove this unused private "deDup" method.(òÁĞ8Ó²À¨,
+dsquid:UnusedPrivateMethod"5Remove this unused private "getProjectIssues" method.(Êä†Óúÿÿÿÿ8Ó²À¨,
+lsquid:S1192"KDefine a constant instead of duplicating this literal "components" 3 times.(Ôé‡øÿÿÿÿ8Ó²À¨,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı™šô8Ó²À¨,

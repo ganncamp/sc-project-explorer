@@ -1,0 +1,6 @@
+projectKey=com.sonarsource.cognitivecomplexity:project-explorer
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.370
+dashboardUrl=http://localhost:9000/dashboard/index/com.sonarsource.cognitivecomplexity:project-explorer
+ceTaskId=AWJTU0A1KMqn34MwRo78
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWJTU0A1KMqn34MwRo78
